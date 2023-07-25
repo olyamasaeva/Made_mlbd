@@ -25,7 +25,7 @@ In this repository, you'll find a collection of laboratory works that delve into
  - homework_4: Contains notebooks and code snippets demonstrating Spark MLlib's machine learning capabilities.
 
 ## Getting Started:
- - git clone https://github.com/your-username/machine-learning-bigdata-labs.git
+ - git clone https://github.com/olyamasaeva/Made_mlbd.git
  - Navigate to the desired branch using git checkout <branch_name> and explore the relevant laboratory works.
 
 I hope this repository serves as a valuable resource for your machine learning journey in the realm of big data analytics. Happy learning and exploring the exciting world of machine learning in big data! 🚀
